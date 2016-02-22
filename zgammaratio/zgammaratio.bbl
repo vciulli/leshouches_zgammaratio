@@ -1,0 +1,64 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Khachatryan:2015ira}
+V.~Khachatryan {\em et.~al.},, {\bf CMS} Collaboration {\em JHEP} {\bf 10}
+  (2015) 128, [\href{http://xxx.lanl.gov/abs/1505.06520}{{\tt 1505.06520}}].
+
+\bibitem{StirlingPaperZGamma}
+S.~Ask, M.~A. Parker, T.~Sandoval, M.~E. Shea, and W.~J. Stirling, {\em J. High
+  Energy Phys.} {\bf 10} (2011) 058,
+  [\href{http://xxx.lanl.gov/abs/1107.2803}{{\tt 1107.2803}}].
+
+\bibitem{BlackHat}
+Z.~Bern, G.~Diana, L.~J. Dixon, F.~Febres~Cordero, S.~H{\"o}che, H.~Ita, D.~A.
+  Kosower, D.~Ma{\^i}tre, and K.~J. Ozeren, {\em Phys. Rev. D} {\bf 87} (2013)
+  034026, [\href{http://xxx.lanl.gov/abs/1206.6064}{{\tt 1206.6064}}].
+
+\bibitem{Denner:2000jv}
+A.~Denner and S.~Pozzorini, {\em Eur. Phys. J.} {\bf C18} (2001) 461--480,
+  [\href{http://xxx.lanl.gov/abs/hep-ph/0010201}{{\tt hep-ph/0010201}}].
+
+\bibitem{Denner:2001gw}
+A.~Denner and S.~Pozzorini, {\em Eur. Phys. J.} {\bf C21} (2001) 63--79,
+  [\href{http://xxx.lanl.gov/abs/hep-ph/0104127}{{\tt hep-ph/0104127}}].
+
+\bibitem{Ask:2011xf}
+S.~Ask, M.~A. Parker, T.~Sandoval, M.~E. Shea, and W.~J. Stirling, {\em JHEP}
+  {\bf 10} (2011) 058, [\href{http://xxx.lanl.gov/abs/1107.2803}{{\tt
+  1107.2803}}].
+
+\bibitem{Denner:2014ina}
+A.~Denner, L.~Hofer, A.~Scharf, and S.~Uccirati, {\em JHEP} {\bf 01} (2015)
+  094, [\href{http://xxx.lanl.gov/abs/1411.0916}{{\tt 1411.0916}}].
+
+\bibitem{MadGraph5}
+J.~Alwall, M.~Herquet, F.~Maltoni, O.~Mattelaer, and T.~Stelzer, {\em J. High
+  Energy Phys.} {\bf 06} (2011) 128,
+  [\href{http://xxx.lanl.gov/abs/1106.0522}{{\tt 1106.0522}}].
+
+\bibitem{pythia6}
+T.~Sj{\"o}strand, S.~Mrenna, and P.~Skands, {\em J. High Energy Phys.} {\bf 05}
+  (2006) 026, [\href{http://xxx.lanl.gov/abs/hep-ph/0603175}{{\tt
+  hep-ph/0603175}}].
+
+\bibitem{CTEQ6}
+J.~Pumplin, D.~R. Stump, J.~Huston, H.-L. Lai, P.~Nadolsky, and W.-K. Tung,
+  {\em J. High Energy Phys.} {\bf 07} (2002) 012,
+  [\href{http://xxx.lanl.gov/abs/hep-ph/0201195}{{\tt hep-ph/0201195}}].
+
+\bibitem{MatchingPaper}
+J.~Alwall, S.~H{\"o}che, F.~Krauss, N.~Lavesson, L.~L{\"o}nnblad, F.~Maltoni,
+  M.~L. Mangano, M.~Moretti, C.~G. Papadopoulos, F.~Piccinini, S.~Schumann,
+  M.~Treccani, J.~Winter, and M.~Worek, {\em Eur. Phys. J. C} {\bf 53} (2008)
+  473, [\href{http://xxx.lanl.gov/abs/0706.2569}{{\tt 0706.2569}}].
+
+\bibitem{MSTW}
+A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt, {\em Eur. Phys. J. C}
+  {\bf 63} (2009) 189, [\href{http://xxx.lanl.gov/abs/0901.0002}{{\tt
+  0901.0002}}].
+
+\bibitem{Frixione}
+S.~Frixione, {\em Phys. Lett. B} {\bf 429} (1998) 369,
+  [\href{http://xxx.lanl.gov/abs/hep-ph/9801442}{{\tt hep-ph/9801442}}].
+
+\end{thebibliography}\endgroup

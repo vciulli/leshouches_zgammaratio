@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: zgammaratio.aux
+The style file: lesHouches.bst
+Database file #1: zgammaratio.bib
+Warning--empty title in Khachatryan:2015ira
+Warning--empty title in StirlingPaperZGamma
+Warning--empty title in BlackHat
+Warning--empty title in Denner:2000jv
+Warning--empty title in Denner:2001gw
+Warning--empty title in Ask:2011xf
+Warning--empty title in Denner:2014ina
+Warning--empty title in MadGraph5
+Warning--empty title in pythia6
+Warning--empty title in CTEQ6
+Warning--empty title in MatchingPaper
+Warning--empty title in MSTW
+Warning--empty title in Frixione
+You've used 13 entries,
+            2120 wiz_defined-function locations,
+            594 strings with 5884 characters,
+and the built_in function-call counts, 4308 in all, are:
+= -- 364
+> -- 211
+< -- 0
++ -- 75
+- -- 62
+* -- 411
+:= -- 634
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 229
+empty$ -- 396
+format.name$ -- 62
+if$ -- 1075
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 52
+newline$ -- 42
+num.names$ -- 13
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 146
+stack$ -- 0
+substring$ -- 120
+swap$ -- 99
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 13
+while$ -- 28
+width$ -- 15
+write$ -- 133
+(There were 13 warnings)
