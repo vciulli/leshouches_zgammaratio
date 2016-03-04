@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.11)  4 MAR 2016 01:11
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.11)  4 MAR 2016 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -195,7 +195,7 @@ Package pdftex.def Info: d08-x02-y01-mc.pdf used on input line 48.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
 
-LaTeX Warning: Float too large for page by 0.48709pt on input line 56.
+LaTeX Warning: Float too large for page by 0.48709pt on input line 54.
 
 [1
 
@@ -204,41 +204,41 @@ LaTeX Warning: Float too large for page by 0.48709pt on input line 56.
 <d07-x01-y01.pdf, id=91, 337.16966pt x 304.4474pt>
 File: d07-x01-y01.pdf Graphic file (type pdf)
  <use d07-x01-y01.pdf>
-Package pdftex.def Info: d07-x01-y01.pdf used on input line 100.
+Package pdftex.def Info: d07-x01-y01.pdf used on input line 98.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
 <d08-x01-y01.pdf, id=92, 337.16966pt x 304.4474pt>
 File: d08-x01-y01.pdf Graphic file (type pdf)
  <use d08-x01-y01.pdf>
-Package pdftex.def Info: d08-x01-y01.pdf used on input line 101.
+Package pdftex.def Info: d08-x01-y01.pdf used on input line 99.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
 <d08-x02-y01.pdf, id=93, 337.16966pt x 304.4474pt>
 File: d08-x02-y01.pdf Graphic file (type pdf)
  <use d08-x02-y01.pdf>
-Package pdftex.def Info: d08-x02-y01.pdf used on input line 102.
+Package pdftex.def Info: d08-x02-y01.pdf used on input line 100.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
 
-LaTeX Warning: Float too large for page by 0.48709pt on input line 110.
+LaTeX Warning: Float too large for page by 0.48709pt on input line 106.
 
 <d07-x01-y01-SherpaOL-mc.pdf, id=94, 337.16966pt x 361.35pt>
 File: d07-x01-y01-SherpaOL-mc.pdf Graphic file (type pdf)
 
 <use d07-x01-y01-SherpaOL-mc.pdf>
-Package pdftex.def Info: d07-x01-y01-SherpaOL-mc.pdf used on input line 118.
+Package pdftex.def Info: d07-x01-y01-SherpaOL-mc.pdf used on input line 114.
 (pdftex.def)             Requested size: 227.62204pt x 243.95035pt.
 
 <d07-x01-y01-SherpaOL.pdf, id=95, 337.16966pt x 361.35pt>
 File: d07-x01-y01-SherpaOL.pdf Graphic file (type pdf)
 
 <use d07-x01-y01-SherpaOL.pdf>
-Package pdftex.def Info: d07-x01-y01-SherpaOL.pdf used on input line 119.
+Package pdftex.def Info: d07-x01-y01-SherpaOL.pdf used on input line 115.
 (pdftex.def)             Requested size: 227.62204pt x 243.95035pt.
 
 
 LaTeX Warning: Reference `put_label_of_section' on page 3 undefined on input li
-ne 134.
+ne 132.
 
 (./zgammaratio.bbl [3] [4 <./d07-x01-y01.pdf> <./d08-x01-y01.pdf> <./d08-x02-y0
 1.pdf>] [5 <./d07-x01-y01-SherpaOL-mc.pdf> <./d07-x01-y01-SherpaOL.pdf>]
@@ -282,7 +282,7 @@ fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
 pe1/urw/courier/ucrr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/
 times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on zgammaratio.pdf (6 pages, 280303 bytes).
+Output written on zgammaratio.pdf (6 pages, 280866 bytes).
 PDF statistics:
  249 PDF objects out of 1000 (max. 8388607)
  191 compressed objects within 2 object streams
