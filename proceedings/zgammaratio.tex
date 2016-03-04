@@ -48,7 +48,9 @@ in the phase space regions: $N_{\mathrm{jets}}\geq 1,\,2,\,3$, and $H_T>300$ GeV
 \includegraphics[width=0.5\textwidth]{d08-x02-y01-mc.pdf}
  \caption{Comparison of different predictions for the ratio of Z+jets over $\gamma$ + jets at 8 TeV pp
    center-of-mass energy. From top to bottom, results are shown for events with at least 1, 2 and 3 jets accompaning the
-   boson.}
+   boson. For fixed order predictions this value
+correspond to the number of partons in the final state at the lowest
+order}
 \label{zgrmc}
 \end{center}
 \end{figure}
@@ -57,7 +59,7 @@ Figure~(\ref{zgrmc}) compares several predictions for the ratio within the fiduc
 the comparison for $H_T>300$ GeV because fixed order predictions are known to fail describing high jet activity with a
 comparatively low vector boson $p_T$.}. The fixed
 order partonic predictions computed with the {\tt ALPGEN} generator are shown at LO and at 
-approximated NLO accuracy, \emph{i.e.} including the effect of virtual weak corrections in the Sudakov approximation obtained by
+approximated NLO accuracy~\cite{Chiesa:2013yma},, \emph{i.e.} including the effect of virtual weak corrections in the Sudakov approximation obtained by
 means of the algorithm of Refs.~\cite{Denner:2000jv,Denner:2001gw}, as described in the previous paragraphs. The
 predictions for $Z+$~jets and $\gamma+$~jets are computed in the $G_{\mu}$ and $\alpha_0$ schemes, respectively, with
 the set of parameters listed above for the calculation of the $\mathcal{O}(\alpha)$ corrections to the process
@@ -93,7 +95,6 @@ momentum, up to about 10\% for $p_T > 600$ GeV in events with at least one jet. 
 for larger jet multiplicities. It can be also noticed that {\tt MADGRAPH} prediction overshoot the NLO QCD ones for
 larger multiplicities. 
 
-
 \begin{figure}
 \begin{center}
 \includegraphics[width=0.5\textwidth]{d07-x01-y01.pdf} \\
@@ -101,14 +102,66 @@ larger multiplicities.
 \includegraphics[width=0.5\textwidth]{d08-x02-y01.pdf}
  \caption{Comparison to CMS data of different predictions for the ratio of Z+jets over $\gamma$ + jets at 8 TeV pp
    center-of-mass energy. From top to bottom, results are shown for events with at least 1, 2 and 3 jets accompaning the
-   boson.}
+   boson. For fixed order predictions this value
+correspond to the number of partons in the final state at the lowest
+order}
 \label{zgrdata}
 \end{center}
 \end{figure}
 
-In Figure~(\ref{zgrdata}), finally, these predictions are compared to CMS results, showing that the agreement improves
+In Figure~(\ref{zgrdata}), these predictions are compared to CMS results, showing that the agreement improves
 when NLO corrections are included, both in the case of QCD and EWK ones. In particular, including the EWK corrections,
 results are in better agreement in the high boson transverse momentum region, especially for larger jet multiplicities. 
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.5\textwidth]{d07-x01-y01-SherpaOL-mc.pdf} \\
+\includegraphics[width=0.5\textwidth]{d07-x01-y01-SherpaOL.pdf} \\
+ \caption{Comparison of different predictions at NLO QCD and NLO(NLL) EW order for the 
+   ratio of Z + jets over $\gamma$ + jets at 8 TeV pp
+   center-of-mass energy, in events with at least 1 jet accompaning the
+   boson. For fixed order predictions this value correspond to the
+   number of partons in the final state at the lowest order. Top plot
+   shows a comparison among the predictions. Bottom plot shows a comparison to CMS data. } 
+\label{zgrNLO}
+\end{center}
+\end{figure}
+
+In addition Figure~\ref{zgrNLO} shows, for events with the boson and at least one
+jet, the fixed-order predictions from {\tt Sherpa+OpenLoops}. These are based on the recently 
+achieved automation of NLO QCD+EW 
+calculations~\cite{Kallweit:2014xda,Kallweit:2015dum}, as described in 
+Section~\ref{put_label_of_section}. Predictions for the $Z$+jets/$\gamma$+jets 
+ratio from {\tt Munich+OpenLoops} have already been presented 
+in~\cite{Kallweit:2015fta} and have for example been employed for background 
+predictions in \cite{CMS:2015jdt}. Here, we use NNPDF2.3QED \cite{Ball:2013hta} 
+parton distributions with $\alpha_S=0.118$ and all input parameters and scale 
+choices are as detailed in~\cite{Kallweit:2015dum}. In particular all unstable 
+particles are treated in the complex-mass scheme~\cite{Denner:2005fg} and  
+renormalisation and factorisation scale are set to 
+$\mu_{R,F}=\hat{H}_{\mathrm{T}}'/2$, where $\hat{H}_{\mathrm{T}}'$ is the scalar 
+sum of the transverse energy of all parton-level final-state objects, 
+$\hat{H}_{\mathrm{T}}' = \sum_{i\in \{\mathrm{quarks,gluons}\}} p_{\mathrm{T},i} 
++ p_{\mathrm{T},\gamma} + E_{\mathrm{T}, V}$. QCD partons and photons that are 
+radiated at NLO are included in $\hat{H}_{\mathrm{T}}'$, and the vector-boson 
+transverse energy, $E_{\mathrm{T},V}$,  is computed using the total (off-shell) 
+four-momentum of the corresponding (dressed) decay products, i.e. 
+$E^2_{\mathrm{T},Z}=p^2_{\mathrm{T},\ell\ell}+m_{\ell\ell}^2$ and 
+$E^2_{\mathrm{T},\gamma}=p_{\mathrm{T},\gamma}^2$. The weak coupling constant 
+$\alpha$ is renormalized in the $G_{\mu}$ scheme for the $Z$+jets prediction, 
+while the $\alpha(0)$-scheme is used for the $\gamma$+jets prediction. Results 
+are presented at the NLO QCD level and combining QCD and EW corrections via an 
+additive prescription, i.e. $\sigma^{\mathrm{NLO}}_{\mathrm{QCD+EW}} =
+\sigma^{\mathrm{LO}}+\delta\sigma^{\mathrm{NLO}}_{\mathrm{QCD}} + 
+\delta\sigma^{\mathrm{NLO}}_{\mathrm{EW}}$. Isolated photons in the $\gamma$+jets 
+predictions are required to satisfy Frixione cone isolation~\cite{Frixione} with parameters
+as specified in \cite{Khachatryan:2015ira}.
+
+The agreement with CMS data of combined NLO QCD and EW corrections is remarkable over
+the whole spectrum. As already noted at low transverse momentum NLO QCD corrections are more relevant, but  
+EW Sudakovs effects show up already much below 1 TeV. Therefore these results show the importance of combining NLO
+QCD and EW corrections in a unified framework. 
+
 
 \bibliography{zgammaratio}
 

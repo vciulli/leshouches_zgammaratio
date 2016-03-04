@@ -6,6 +6,7 @@ Database file #1: zgammaratio.bib
 Warning--empty title in Khachatryan:2015ira
 Warning--empty title in StirlingPaperZGamma
 Warning--empty title in BlackHat
+Warning--empty title in Chiesa:2013yma
 Warning--empty title in Denner:2000jv
 Warning--empty title in Denner:2001gw
 Warning--empty title in Ask:2011xf
@@ -16,45 +17,51 @@ Warning--empty title in CTEQ6
 Warning--empty title in MatchingPaper
 Warning--empty title in MSTW
 Warning--empty title in Frixione
-You've used 13 entries,
+Warning--empty title in Kallweit:2014xda
+Warning--empty title in Kallweit:2015dum
+Warning--empty title in Kallweit:2015fta
+Warning--empty title in CMS:2015jdt
+Warning--empty title in Ball:2013hta
+Warning--empty title in Denner:2005fg
+You've used 20 entries,
             2120 wiz_defined-function locations,
-            594 strings with 5884 characters,
-and the built_in function-call counts, 4308 in all, are:
-= -- 364
-> -- 211
+            642 strings with 7540 characters,
+and the built_in function-call counts, 6559 in all, are:
+= -- 561
+> -- 326
 < -- 0
-+ -- 75
-- -- 62
-* -- 411
-:= -- 634
-add.period$ -- 13
-call.type$ -- 13
++ -- 116
+- -- 96
+* -- 620
+:= -- 954
+add.period$ -- 22
+call.type$ -- 20
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 229
-empty$ -- 396
-format.name$ -- 62
-if$ -- 1075
+cite$ -- 40
+duplicate$ -- 340
+empty$ -- 596
+format.name$ -- 96
+if$ -- 1629
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 52
-newline$ -- 42
-num.names$ -- 13
-pop$ -- 62
+int.to.str$ -- 20
+missing$ -- 75
+newline$ -- 64
+num.names$ -- 20
+pop$ -- 92
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 146
+skip$ -- 220
 stack$ -- 0
-substring$ -- 120
-swap$ -- 99
+substring$ -- 222
+swap$ -- 146
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
-while$ -- 28
-width$ -- 15
-write$ -- 133
-(There were 13 warnings)
+warning$ -- 20
+while$ -- 43
+width$ -- 22
+write$ -- 198
+(There were 20 warnings)

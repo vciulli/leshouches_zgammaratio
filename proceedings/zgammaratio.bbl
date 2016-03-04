@@ -14,6 +14,11 @@ Z.~Bern, G.~Diana, L.~J. Dixon, F.~Febres~Cordero, S.~H{\"o}che, H.~Ita, D.~A.
   Kosower, D.~Ma{\^i}tre, and K.~J. Ozeren, {\em Phys. Rev. D} {\bf 87} (2013)
   034026, [\href{http://xxx.lanl.gov/abs/1206.6064}{{\tt 1206.6064}}].
 
+\bibitem{Chiesa:2013yma}
+M.~Chiesa, G.~Montagna, L.~Barze, M.~Moretti, O.~Nicrosini, {\em et.~al.}, {\em
+  Phys.Rev.Lett.} {\bf 111} (2013), no.~12 121801,
+  [\href{http://xxx.lanl.gov/abs/1305.6837}{{\tt 1305.6837}}].
+
 \bibitem{Denner:2000jv}
 A.~Denner and S.~Pozzorini, {\em Eur. Phys. J.} {\bf C18} (2001) 461--480,
   [\href{http://xxx.lanl.gov/abs/hep-ph/0010201}{{\tt hep-ph/0010201}}].
@@ -60,5 +65,34 @@ A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt, {\em Eur. Phys. J. C}
 \bibitem{Frixione}
 S.~Frixione, {\em Phys. Lett. B} {\bf 429} (1998) 369,
   [\href{http://xxx.lanl.gov/abs/hep-ph/9801442}{{\tt hep-ph/9801442}}].
+
+\bibitem{Kallweit:2014xda}
+S.~Kallweit, J.~M. Lindert, P.~Maierhöfer, S.~Pozzorini, and M.~Schönherr,
+  {\em JHEP} {\bf 04} (2015) 012,
+  [\href{http://xxx.lanl.gov/abs/1412.5157}{{\tt 1412.5157}}].
+
+\bibitem{Kallweit:2015dum}
+S.~Kallweit, J.~M. Lindert, P.~Maierhofer, S.~Pozzorini, and M.~Schönherr,
+  \href{http://xxx.lanl.gov/abs/1511.08692}{{\tt 1511.08692}}.
+
+\bibitem{Kallweit:2015fta}
+S.~Kallweit, J.~M. Lindert, S.~Pozzorini, M.~Schönherr, and P.~Maierhöfer, in
+  {\em {Proceedings, 50th Rencontres de Moriond, QCD and high energy
+  interactions}}, pp.~121--124, 2015.
+\newblock \href{http://xxx.lanl.gov/abs/1505.05704}{{\tt 1505.05704}}.
+
+\bibitem{CMS:2015jdt}
+C.~Collaboration,, {\bf CMS} Collaboration.
+
+\bibitem{Ball:2013hta}
+R.~D. Ball, V.~Bertone, S.~Carrazza, L.~Del~Debbio, S.~Forte, A.~Guffanti,
+  N.~P. Hartland, and J.~Rojo,, {\bf NNPDF} Collaboration {\em Nucl. Phys.}
+  {\bf B877} (2013) 290--320, [\href{http://xxx.lanl.gov/abs/1308.0598}{{\tt
+  1308.0598}}].
+
+\bibitem{Denner:2005fg}
+A.~Denner, S.~Dittmaier, M.~Roth, and L.~H. Wieders, {\em Nucl. Phys.} {\bf
+  B724} (2005) 247--294, [\href{http://xxx.lanl.gov/abs/hep-ph/0505042}{{\tt
+  hep-ph/0505042}}]. [Erratum: Nucl. Phys.B854,504(2012)].
 
 \end{thebibliography}\endgroup

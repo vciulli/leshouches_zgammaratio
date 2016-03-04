@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.11)  21 FEB 2016 17:12
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.11)  4 MAR 2016 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,6 +194,9 @@ File: d08-x02-y01-mc.pdf Graphic file (type pdf)
 Package pdftex.def Info: d08-x02-y01-mc.pdf used on input line 48.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
+
+LaTeX Warning: Float too large for page by 0.48709pt on input line 56.
+
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -201,52 +204,88 @@ Package pdftex.def Info: d08-x02-y01-mc.pdf used on input line 48.
 <d07-x01-y01.pdf, id=91, 337.16966pt x 304.4474pt>
 File: d07-x01-y01.pdf Graphic file (type pdf)
  <use d07-x01-y01.pdf>
-Package pdftex.def Info: d07-x01-y01.pdf used on input line 99.
+Package pdftex.def Info: d07-x01-y01.pdf used on input line 100.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
 <d08-x01-y01.pdf, id=92, 337.16966pt x 304.4474pt>
 File: d08-x01-y01.pdf Graphic file (type pdf)
  <use d08-x01-y01.pdf>
-Package pdftex.def Info: d08-x01-y01.pdf used on input line 100.
+Package pdftex.def Info: d08-x01-y01.pdf used on input line 101.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
 <d08-x02-y01.pdf, id=93, 337.16966pt x 304.4474pt>
 File: d08-x02-y01.pdf Graphic file (type pdf)
  <use d08-x02-y01.pdf>
-Package pdftex.def Info: d08-x02-y01.pdf used on input line 101.
+Package pdftex.def Info: d08-x02-y01.pdf used on input line 102.
 (pdftex.def)             Requested size: 227.62204pt x 205.53493pt.
 
+
+LaTeX Warning: Float too large for page by 0.48709pt on input line 110.
+
+<d07-x01-y01-SherpaOL-mc.pdf, id=94, 337.16966pt x 361.35pt>
+File: d07-x01-y01-SherpaOL-mc.pdf Graphic file (type pdf)
+
+<use d07-x01-y01-SherpaOL-mc.pdf>
+Package pdftex.def Info: d07-x01-y01-SherpaOL-mc.pdf used on input line 118.
+(pdftex.def)             Requested size: 227.62204pt x 243.95035pt.
+
+<d07-x01-y01-SherpaOL.pdf, id=95, 337.16966pt x 361.35pt>
+File: d07-x01-y01-SherpaOL.pdf Graphic file (type pdf)
+
+<use d07-x01-y01-SherpaOL.pdf>
+Package pdftex.def Info: d07-x01-y01-SherpaOL.pdf used on input line 119.
+(pdftex.def)             Requested size: 227.62204pt x 243.95035pt.
+
+
+LaTeX Warning: Reference `put_label_of_section' on page 3 undefined on input li
+ne 134.
+
 (./zgammaratio.bbl [3] [4 <./d07-x01-y01.pdf> <./d08-x01-y01.pdf> <./d08-x02-y0
-1.pdf>]) [5] (./zgammaratio.aux) ) 
+1.pdf>] [5 <./d07-x01-y01-SherpaOL-mc.pdf> <./d07-x01-y01-SherpaOL.pdf>]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+)
+[6] (./zgammaratio.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1661 strings out of 493629
- 24050 string characters out of 3143323
- 81992 words of memory out of 3000000
- 4939 multiletter control sequences out of 15000+200000
+ 1680 strings out of 493629
+ 24485 string characters out of 3143323
+ 83028 words of memory out of 3000000
+ 4956 multiletter control sequences out of 15000+200000
  17456 words of font info for 40 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,8n,24p,557b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc
-/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
-fb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on zgammaratio.pdf (5 pages, 241442 bytes).
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2011/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texmf-d
+ist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
+pe1/urw/courier/ucrr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/
+times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr
+8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on zgammaratio.pdf (6 pages, 280303 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
+ 249 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
