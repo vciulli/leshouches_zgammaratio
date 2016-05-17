@@ -1,0 +1,107 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ew_comparison.aux
+The style file: lesHouches.bst
+Database file #1: ew_comparison.bib
+Warning--empty title in Hahn:1998yk
+Warning--empty title in Arnold:2008rz
+Warning--empty title in Berger:2008sj
+Warning--empty title in Becker:2010ng
+Warning--empty title in Badger:2010nx
+Warning--empty title in Hirschi:2011pa
+Warning--empty title in Bevilacqua:2011xh
+Warning--empty title in Cullen:2011ac
+Warning--empty title in Cascioli:2011va
+Warning--empty title in Actis:2012qn
+Warning--empty title in Kallweit:2014xda
+Warning--empty title in Frixione:2014qaa
+Warning--empty title in Chiesa:2015mya
+Warning--empty title in Mangano:2002ea
+Warning--empty title in vanHameren:2009vq
+Warning--empty title in Denner:1991kt
+Warning--empty title in Garzelli:2009is
+Warning--empty title in Denner:2014gla
+Warning--empty title in Denner:2005fg
+Warning--empty title in Catani:1996vz
+Warning--empty title in Catani:2002hc
+Warning--empty title in Denner:2014ina
+Warning--empty title in Denner:2015yca
+Warning--empty title in Kallweit:2015dum
+Warning--empty title in Denner:2002ii
+Warning--empty title in Denner:2005nn
+Warning--empty title in Denner:2010tr
+Warning--empty title in Ossola:2007ax
+Warning--empty title in Ossola:2006us
+Warning--empty title in vanHameren:2010cp
+Warning--empty title in Gleisberg:2007md
+Warning--empty title in Gleisberg:2008ta
+Warning--empty title in Krauss:2001iv
+Warning--empty title in Gleisberg:2008fv
+Warning--empty title in Dittmaier:1999mb
+Warning--empty title in Dittmaier:2008md
+Warning--empty title in Alwall:2014hca
+Warning--empty title in Frixione:2015zaa
+Warning--empty title in Frederix:2009yq
+Warning--empty title in Degrande:2011ua
+Warning--empty title in Cacciari:1998it
+Warning--empty title in Denner:2000jv
+Warning--empty title in Denner:2001gw
+Warning--empty title in Chiesa:2013yma
+Warning--empty title in Mishra:2013una
+Warning--empty title in Campbell:2013qaa
+Warning--empty title in Butterworth:2014efa
+Warning--empty title in Caravaglios:1995cd
+Warning--empty title in Khachatryan:2015ira
+Warning--empty title in StirlingPaperZGamma
+Warning--empty title in BlackHat
+Warning--empty title in Ask:2011xf
+Warning--empty title in MadGraph5
+Warning--empty title in pythia6
+Warning--empty title in CTEQ6
+Warning--empty title in MatchingPaper
+Warning--empty title in MSTW
+Warning--empty title in Frixione
+Warning--empty title in Kallweit:2015fta
+Warning--empty title in Ball:2013hta
+You've used 64 entries,
+            2120 wiz_defined-function locations,
+            939 strings with 15333 characters,
+and the built_in function-call counts, 20481 in all, are:
+= -- 1827
+> -- 877
+< -- 0
++ -- 316
+- -- 252
+* -- 1858
+:= -- 2876
+add.period$ -- 67
+call.type$ -- 64
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 124
+duplicate$ -- 1062
+empty$ -- 1951
+format.name$ -- 252
+if$ -- 5170
+int.to.chr$ -- 0
+int.to.str$ -- 64
+missing$ -- 232
+newline$ -- 196
+num.names$ -- 63
+pop$ -- 297
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 723
+stack$ -- 0
+substring$ -- 860
+swap$ -- 463
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 60
+while$ -- 140
+width$ -- 66
+write$ -- 617
+(There were 60 warnings)
